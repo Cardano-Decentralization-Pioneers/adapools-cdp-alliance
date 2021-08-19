@@ -33,7 +33,7 @@ Registration JSON Example.
 ```
             "0": {
                 "pool_id": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
-                "member_since": "2021-07-21",
+                "member_since": "2021-08-19",
                 "name": "VITAL (Responsible Staking)"
             },
 ```
