@@ -1,0 +1,36 @@
+// 20210820000244
+// https://raw.githubusercontent.com/Climate-Neutral-Blockchain-Group/adapools-cnbg-alliance/main/cnbg-alliance-members.json
+
+{
+  "adapools": {
+    "about": {
+      "name": "Dezentralization Pioneers",
+      "description_short": "Decentralization champions that have node on at least two continents and in at least one remote country",
+      "description_long": "Decentralization is at the heart of the Cardano and IOHK missions and particularly in regions which don't have the benefit of western world institutions. Most countries in Africa, with the exception of South Africa, are not covered by giant datacenters like AWS, Gcloud, Contabo. The cost of operating nodes in those countries is significantly higher than in Western Europe or the US. This portfolio is curated of pools that operate in remote locations, where the cost can be between 5 and 10x as compared to cheapest in Europe and by doing so they are supporting the local community and paying a very good rate by local standards. The pools in this folio were the first ones to run nodes in remote locations. They support geographical distribution and diversification of hosting providers.",
+      "website": "https://t.me/joinchat/lHeWL7PhNQkyZWQ0",
+      "url_png_icon_64x64": "",
+      "url_png_logo": "",
+      "social": {
+        "twitter_handle": "",
+        "telegram_handle": "@CardanoDecentralizationPioneers",
+        "facebook_handle": "",
+        "youtube_handle": "",
+        "twitch_handle": "",
+        "discord_handle": "",
+        "github_handle": "Cardano-Decentralization-Pioneers"
+      },
+      "types": {
+        "charity": false,
+        "business": false,
+        "beneficial": true
+      }
+    },
+    "members": {
+      "0": {
+        "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
+        "member_since": "2021-08-20",
+        "name": "VITAL (Responsible Staking)"
+      }
+    }
+  }
+}
