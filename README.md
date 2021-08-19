@@ -4,11 +4,11 @@ In this repo stake pool operators can register to become a member of the Cardano
 
 # Description
 
-Decentralization is at the heart of the Cardano and IOHK missions and particularly in regions which don't have the benefit of western world institutions. Most countries in Africa, with the exception of South Africa, are not covered by giant datacenters like AWS, Gcloud, Contabo 
+Decentralization is at the heart of the Cardano and IOHK missions and particularly in regions that don't have the benefit of western world institutions. Most countries in Africa, with the exception of South Africa, are not covered by giant data centers like AWS, Gcloud, Contabo.
 
-The cost of operating nodes in those countries is significantly higher than in Western Europe or the US. This portfolio is curated of pools that operate in remote locations, where the cost can be between 5 and 10x as compared to cheapest in Europe and by doing so they are supporting the local community and paying a very good rate by local standards.
+The cost of operating nodes in those countries is significantly higher than in Western Europe or the US. This portfolio is curated of pools that operate in remote locations, where the cost can be between 5 and 10x as compared to the cheapest in Europe, and by doing so they are supporting the local community and paying a very good rate by local standards. 
 
-The pools in this folio were the first ones to run nodes in remote locations. They support geographical distribution and diversification of hosting providers.
+The pools in this portfolio were the first ones to run nodes in remote locations. They support geographical distribution and the diversification of hosting providers.
 
 # Joining the Decentralization Pioneers Alliance
 
