@@ -8,7 +8,7 @@ The pools in this folio were the first ones to run nodes in remote locations. Th
 
 # Joining the Decentralization Pioneers Alliance
 
-Pools that want to join after the 19th of August 2021 will need to request on the telegram channel and demonstrate how they quality (e.g. show their adapools page with relays).
+Pools that want to join after the 19th of August 2021 will need to request on the telegram channel (https://t.me/joinchat/lHeWL7PhNQkyZWQ0) and demonstrate how they quality (e.g. show their adapools page with relays).
 The validation is handled manually through verifying the relays list on adapools.org. In case of conflicting requests the pool update list will be used to find out who was announcing a new relay earlier.
 
 After proofing your qualification please go ahead with the below Registration Instructions.
