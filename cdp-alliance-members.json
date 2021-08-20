@@ -27,6 +27,11 @@
         "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
         "member_since": "2021-08-20",
         "name": "VITAL (Responsible Staking)"
+      },
+      "1": {
+        "pool_id": "6ae0fb9fc19ad1b82521d6e4b9f6e9bad4d150529673c95c5b5cf4e4",
+        "member_since": "2021-08-20",
+        "name": "DSIO (Dynamic Strategies)"
       }
     }
   }
